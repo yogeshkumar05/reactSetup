@@ -1,13 +1,12 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import Navbar from './Navbar';
 
-export default class App extends Component
+export default class Home extends Component
 {
     render()
     {
         return(
-            <Navbar/>
+            <h1>Home</h1>
         )
     }
 }
