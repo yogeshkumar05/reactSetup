@@ -1,5 +1,4 @@
-# reactSetup
-Get started with ReactJS
+# Get started with ReactJS
 React basic setup (using npm, webpack, babel)
 
 # versions
