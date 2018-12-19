@@ -8,7 +8,7 @@ webpack: 4.27.1
 
 
 #setup steps are listed here:
-https://wordpress.com/post/jnanakosha.wordpress.com/455
+https://yogeshkumar05.wordpress.com/2018/12/19/get-started-with-reactjs/
 
 #to test
 1. clone the repository into a local folder
