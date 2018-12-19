@@ -1,5 +1,6 @@
 # reactSetup
-React basic setup (npm, webpack, babel)
+Get started with ReactJS
+React basic setup (using npm, webpack, babel)
 
 # versions
 React: 16.6.3
